@@ -1,5 +1,5 @@
 # Offical Ben Knight website 
-[Website Link](www.benknight135.github.io)
+[Website Link](www.bknight.co.uk)
 
 This repository hosts the offical website for Ben Knight. 
 
