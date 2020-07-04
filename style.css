@@ -22,6 +22,11 @@ p {
   margin-left: 20px;
 }
 
+a {
+  color: rgb(35, 49, 245);
+  margin-left: 20px;
+}
+
 button {
   background-color: rgb(48, 48, 48);
   border: none;
